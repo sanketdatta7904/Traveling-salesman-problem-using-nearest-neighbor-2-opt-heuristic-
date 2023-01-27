@@ -1,5 +1,9 @@
 
-
+Implemented the 2-Opt heuristic and the nearest-neighbor heuristic for TSP
+Use TSP test data provided on the following website: http://www.math.uwaterloo.ca/tsp/
+index.html. In particular, focus on the 25 National TSP instances (http://www.math.uwaterloo.
+ca/tsp/world/countries.html).
+Download the cities files in 'test_cases' folder.
 
 running command: python exercise04/main.py 
 
